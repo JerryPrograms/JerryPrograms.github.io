@@ -1,112 +1,110 @@
-Senior Fullstack & AI Engineer
-About Skills Tools Projects Contact
-Hire / Collaborate
-Muhammad Abubakar
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zain Aftab | Full Stack Developer</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
-Building Scalable Systems & AI Workflows
+<header>
+    <div class="container">
+        <h1>Zain Aftab</h1>
+        <p>Full Stack Developer | AI & LLM Systems</p>
+        <div class="contact">
+            <span>Faisalabad, Pakistan</span> |
+            <span>dev.zainaftab@gmail.com</span>
+        </div>
+    </div>
+</header>
 
-6+ years delivering production-grade web platforms across backend, frontend, and AI-powered systems. Focused on performance, clean architecture, and practical automation.
+<section class="hero">
+    <div class="container">
+        <h2>Building Scalable Web & AI Systems</h2>
+        <p>
+            4+ years of experience in Python (Django/Flask), MERN Stack, and Laravel.
+            Focused on LLMs, RAG pipelines, and high-performance backend systems.
+        </p>
+    </div>
+</section>
 
-View Projects Download Resume GitHub
-Muhammad Abubakar
-Companies & Clients
+<section class="skills container">
+    <h2>Core Skills</h2>
 
-CICTuringMercormicro1AfterschoolHQJoinReflectGolfForeverCICTuringMercormicro1AfterschoolHQJoinReflectGolfForever
-10+
+    <div class="grid">
+        <div>
+            <h3>Programming</h3>
+            <p>Python, Django, Flask, Node.js, Express, React, Laravel, PHP</p>
+        </div>
 
-Projects Delivered
+        <div>
+            <h3>Databases</h3>
+            <p>PostgreSQL, MySQL, MongoDB, SQLite</p>
+        </div>
 
-500+
+        <div>
+            <h3>AI & Data</h3>
+            <p>LLMs, RAG, RLHF, SFT, Data Processing</p>
+        </div>
 
-AI / LLM Tasks
+        <div>
+            <h3>Web</h3>
+            <p>JavaScript, TypeScript, HTML5, CSS3</p>
+        </div>
 
-5+
+        <div>
+            <h3>Tools</h3>
+            <p>Azure, Heroku, Git, REST APIs, Stripe</p>
+        </div>
+    </div>
+</section>
 
-Personal Clients
+<section class="experience container">
+    <h2>Experience</h2>
 
-6+
+    <div class="job">
+        <h3>LLM Trainer — Turing</h3>
+        <span>Jan 2025 – Present</span>
+        <ul>
+            <li>Train and evaluate LLMs using RLHF and supervised fine-tuning</li>
+            <li>Improve model alignment with human intent</li>
+            <li>Work on AI evaluation pipelines and prompt optimization</li>
+        </ul>
+    </div>
 
-Years Experience
+    <div class="job">
+        <h3>Senior Software Engineer — IDEOIS</h3>
+        <span>2022 – Dec 2024</span>
+        <ul>
+            <li>Built scalable apps using Django & Laravel</li>
+            <li>Improved performance by 30% via DB optimization</li>
+            <li>Implemented secure API authentication & encryption</li>
+        </ul>
+    </div>
 
-About
+    <div class="job">
+        <h3>Software Engineer — Microbeck</h3>
+        <span>2021 – 2022</span>
+        <ul>
+            <li>Developed web features using PHP, JS, SQL</li>
+            <li>Implemented authentication systems</li>
+            <li>Mentored junior developers</li>
+        </ul>
+    </div>
 
-I’m a senior full-stack engineer focused on building reliable, scalable products, clean APIs, responsive interfaces, and systems that perform well under real usage.
+</section>
 
-I’ve worked deeply with LLM evaluation and training workflows, including internal tooling, data quality improvements, and automation that helps teams ship faster.
+<section class="education container">
+    <h2>Education</h2>
+    <p>
+        BS Computer Science — FAST (2017 – 2021)
+    </p>
+</section>
 
-I’m comfortable owning work end-to-end from architecture and implementation to performance and delivery.
+<footer>
+    <p>© 2026 Zain Aftab</p>
+</footer>
 
-Comfortable working across EST, PST, PKT, and IST time zones. Flexible with schedules and committed to delivering high-quality work, including support beyond standard hours when necessary.
-
-Technical Skills
-
-Languages
-
-Python JavaScript (ES6) TypeScript SQL C++ C#
-Frameworks
-
-FastAPI Django Flask Ruby on Rails NodeJS ReactJS
-Frontend & UI
-
-HTML CSS SCSS Bootstrap Tailwind jQuery
-State / Patterns
-
-Redux Redux Toolkit Redux Thunk REST APIs JWT / OAuth Integration APIs
-AI / LLM
-
-LLMs SFT RLHF RAG LLM Orchestration Agentic Workflows HITL Prompt Engineering Function Calling Data Prep & Labeling
-Databases
-
-MySQL PostgreSQL SQL Server MongoDB Redis Vector DB (Pinecone)
-Cloud / DevOps
-
-Docker Azure (CI/CD) AWS (S3, EC2, RDS, Lambda) CloudFront / CloudWatch API Gateway GCP Heroku
-Automation / Tooling
-
-AI Workflow Automation Policy-Driven Automation BPA Zapier Make.com n8n Web Scraping Stripe
-Tools
-
-Development
-
-VS Code
-Cursor
-GitHub
-Docker
-Postman
-AI Tools
-
-Claude
-OpenAI
-Gemini
-Mistral AI
-Apple Intelligence
-Productivity
-
-Notion
-Slack
-n8n
-ClickUp
-Jira
-Projects
-
-AfterschoolHQ
-
-Full-stack development, analytics tooling, performance improvements, and feature delivery.
-
-Visit site
-
-JoinReflect
-
-Product engineering and backend contributions focused on reliability and scalability.
-
-Visit site
-
-GolfForever
-
-Feature delivery, UX improvements, and performance optimization for customer flows.
-
-Visit site
-
-Let’s Work Together
-
-Available for
+</body>
+</html>
